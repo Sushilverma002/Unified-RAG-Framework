@@ -1,2 +1,2 @@
-# corrective-rag
-The repository consist of corrective rag learning.
+# Unifies-rag-framework
+The repository consist of rag frameworklearning.
